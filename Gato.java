@@ -16,6 +16,8 @@ public class Gato  extends Animal{
        
     }
 
+    //GETTERS Y SETTERS
+
     public boolean getCazaRatones(){
         return cazaRatones;
     }

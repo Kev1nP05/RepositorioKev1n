@@ -17,6 +17,8 @@ public class Perro  extends Animal{
        
     }
 
+    //GETTERS Y SETTERS
+
     public boolean getEsGuia(){
         return esGuia;
     }

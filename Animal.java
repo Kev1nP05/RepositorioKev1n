@@ -26,6 +26,8 @@ public class Animal extends Mensajes{
         return texto != null && !texto.isEmpty() && texto.matches("[a-zA-Z ]+");
     }
 
+    //GETTERS Y SETTERS
+    
     public String getNombre() {
         return nombre;
     }
