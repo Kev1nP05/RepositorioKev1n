@@ -1,3 +1,4 @@
+package src.com.tienda.mascotas.modelo;
 public class Mensajes {
 
     public final String  mensajeNombre = "Ingrese nombre: ";
@@ -10,4 +11,3 @@ public class Mensajes {
 
     
 }
-
